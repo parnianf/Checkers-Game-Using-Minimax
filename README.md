@@ -1,5 +1,5 @@
-# Checkers-Game-using-Minimax
-In this project, we get familiar with the concept of **Adversarial Search**, **Game theory**, and how to work with **multiagent environments**. I implemented the minimax algorithm and got deeper into the concept of adversarial search.
+# Checkers-Game-Using-Minimax
+In this project, we get familiar with the concept of **Adversarial Search**, **Game theory**, and how to work with **multi-agent environments**. I implemented the minimax algorithm and got deeper into the concept of adversarial search.
 
 ## Checkers: A Brief Overview
 
@@ -8,7 +8,7 @@ Checkers is a classic board game played on an 8x8 grid, with each player initial
 ## What is Minimax Algorithm?
 The **Minimax Algorithm** is a recursive or backtracking algorithm used in decision-making and game theory. It aids in determining the optimal move for a player by assuming that the opponent is also playing optimally. This makes it particularly useful in games like Checkers, where each player aims to maximize their advantage while minimizing their opponent's advantage.
 
-For further details, refer to [Mini-Max Algorithm - More Information](https://www.javatpoint.com/mini-max-algorithm-in-ai).
+For further details, refer to [Mini-Max Algorithm](https://www.javatpoint.com/mini-max-algorithm-in-ai).
 
 ## Project Objective
 
